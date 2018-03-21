@@ -1,45 +1,52 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: David Urminsky
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# David Urminsky
+Lecturer of Physics, Mathematician
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="david.urminsky@gmail.com">david.urminsky@gmail.com</a>
+| <a href="http://urminsky.ca">http://urminsky.ca</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Physics Lecturer at Rochester Institute of Technology
 
-### Specialized in
+## Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Prgramming Languages
 
+C, C++, Fortran, python, awk, perl
+
+
+### experience with
+
+ High performance computing with MPI and OpenMP.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+numerical analysis, chaotic dynamics, stellar dynamics, scientific computation
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2004-2009`
+__University of Edinburgh__ Edinburgh UK
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Phd Mathematics
 
-- Sizar
+`1997-200`
+__University of British Columbia__ Vancouver Canada
 
-`1667 - death`
-__Trinity College, Cambridge__
+- M.Sc. Applied Mathematics
 
-- Fellow
+`1993-1997`
+__McMaster University__ Hamilton Canada
 
+- Honours Mathematics and Physics
 
 
 ## Awards
@@ -55,20 +62,23 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+## Experience
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2011-Present`
+__Lecturer of Physics - Rochester Institute of Technology__
 
-`1669`
-Lectiones opticæ.
+`2009-2011`
+__Post doctoral fellow - Rochester Institute of Technology__
 
-etc. etc. etc.
+`2004-2009`
+__Teaching Assistant - University of Edinburgh__
 
-### Patents
+`2000-2004`
+__Product Assurance Analyst - IBM Canada__
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`1998-2000`
+__Extra Sessional Instructor - University of British Columbia__
+
 
 
 ## Occupation
@@ -89,5 +99,3 @@ over all swell guy
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
