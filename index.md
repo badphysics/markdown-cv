@@ -17,13 +17,13 @@ Physics Lecturer at Rochester Institute of Technology
 
 ## Skills
 
-### Prgramming Languages
+`Prgramming`
+ C, C++, Fortran, python, awk, perl
 
-C, C++, Fortran, python, awk, perl
+`Applications`
+ MatLab, Maple, Jupyter Notebooks, rational test suites
 
-
-### experience with
-
+`experience with`
  High performance computing with MPI and OpenMP.
 
 ### Research interests
