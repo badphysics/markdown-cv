@@ -89,7 +89,7 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+David Urminsky, "Shadowing unstable orbits of the sitnikov elliptic 3-body problem", #Monthly Notices of the Royal Astronomical Society, 407, issue 2 804, 2010
 
 
 
