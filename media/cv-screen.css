@@ -32,7 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-    
+
 	list-style: 1;
 }
 blockquote, q {
@@ -177,7 +177,7 @@ a:hover {
 }
 
 em {
-	font-weight: bold;
+	font-weight: none; /*bold;*/
 	font-style: italic;
 }
 
