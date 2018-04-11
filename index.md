@@ -36,13 +36,13 @@ numerical analysis, chaotic dynamics, stellar dynamics, scientific computation
 __Lecturer of Physics - Rochester Institute of Technology__
 
 As a Lecturer in the Department of Physics I taught the following Courses:  
-  * *College Physics 1*: This course is in an algebra based physics course which covers topics on Newton's laws of motion, energy, momentum, rotational dynamics, waves and harmonic motion. I was responsible for running lectures, writing and grading exams and quizzes as well as working with a group of other lecturers to plan curriculum.  
-  * *University Physics 1*: This course is a calculus based physics course which covers topics on Newton's Laws of motion, energy, momentum, rotational dynamics, waves.I was responsible for running lectures, writing and grading exams and quizzes as well as working with a group of other lecturers to plan curriculum.  
-  * *University Physics 2*: This course is a calculus based phyics course with covers topics on electric and magnetic forces and field, electric and magnetic flux, circuts, Maxwell's equations.  
-  * *Introduction to Computational Physics*: This course introduces methods for using computers to model the behavior of physical systems.  Students will learn how computers represent numbers, limits of computation, how to write computer programs, and to use good programming practices.  Students will also apply numerical methods of differentiation and integration, and numerical solutions to differential equations in physical situations.  Responsibilities include maintaining building and maintaining a JupyterHub to host jupyter notebooks for students.  Creating and grading projects.  Running workshops and lectures.  
-  * *Classical Mechanics*: This course is a systematic presentation of Newtonian kinematics and dynamics including equations of motion in one- and three-dimensions, conservation laws, non-inertial reference frames, central forces, Lagrangian mechanics, and rigid body motion. This course will use advanced mathematical techniques including differential equations, vector calculus, and matrix and tensor formulations.   
- 
- 
+  * ***College Physics 1***: This course is in an algebra based physics course which covers topics on Newton's laws of motion, energy, momentum, rotational dynamics, waves and harmonic motion. I was responsible for running lectures, writing and grading exams and quizzes as well as working with a group of other lecturers to plan curriculum.  
+  * ***University Physics 1***: This course is a calculus based physics course which covers topics on Newton's Laws of motion, energy, momentum, rotational dynamics, waves.I was responsible for running lectures, writing and grading exams and quizzes as well as working with a group of other lecturers to plan curriculum.  
+  * ***University Physics 2***: This course is a calculus based phyics course with covers topics on electric and magnetic forces and field, electric and magnetic flux, circuts, Maxwell's equations.  
+  * ***Introduction to Computational Physics***: This course introduces methods for using computers to model the behavior of physical systems.  Students will learn how computers represent numbers, limits of computation, how to write computer programs, and to use good programming practices.  Students will also apply numerical methods of differentiation and integration, and numerical solutions to differential equations in physical situations.  Responsibilities include maintaining building and maintaining a JupyterHub to host jupyter notebooks for students.  Creating and grading projects.  Running workshops and lectures.  
+  * ***Classical Mechanics***: This course is a systematic presentation of Newtonian kinematics and dynamics including equations of motion in one- and three-dimensions, conservation laws, non-inertial reference frames, central forces, Lagrangian mechanics, and rigid body motion. This course will use advanced mathematical techniques including differential equations, vector calculus, and matrix and tensor formulations.   
+
+
 `2009-2011`
 __Post doctoral fellow - Rochester Institute of Technology__
   * Performed research in scientific computation, dynamical systems and chaos with applications to stellar dynamics.  
@@ -89,7 +89,7 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-David Urminsky, "Shadowing unstable orbits of the sitnikov elliptic 3-body problem", #Monthly Notices of the Royal Astronomical Society, 407, issue 2 804, 2010
+David Urminsky, "*Shadowing unstable orbits of the sitnikov elliptic 3-body problem*", #Monthly Notices of the Royal Astronomical Society, 407, issue 2 804, 2010
 
 
 
