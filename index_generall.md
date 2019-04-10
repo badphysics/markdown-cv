@@ -19,53 +19,39 @@ Mathematician, Scientist
 
 </div>
 
-## Introduction
 
-*A seasoned lecturer with a passion for combining technology and online tools to make significant contributions to the educational process.  Recognized for collaborative approach in meeting quality standards and facilitating positive change.*
+## Core Compentencies
 
-## Core Competencies
+`HPC`
+Developed parallel codes using MPI and Cuda for computer clusters and GPUs.
 
+`Big Data`
 
-<span class="colortext"> 
-__Improving Reasoning and Communication Skills__
-</span>
+Experience extracting information from large data sets.
 
-Developed and implemented a flipped classroom which focused on problem based learning and presentations.
+`Comp. Science`
 
-<span class="colortext"> 
-__Technology Integration__
-</span>
-
-Made use of existing technologies (tablets, mobile and online applications) to enhance the learning process for students.
-
-<span class="colortext"> 
-__Communication and Presentation Skills__
-</span>
-
-Effectively makes use of several delivery  methods (video, online, downloadable) for presenting materials for students.
-
-<span class="colortext"> 
-__Creating Learning Environments__
-</span>
-
-Using continual evaluations and early alerts to track progress of students.
-
-<!-- `HPC` -->
-<!-- Developed parallel codes using MPI and Cuda for computer clusters and GPUs. -->
-
-<!-- `Big Data` -->
-
-<!-- Experience extracting information from large data sets. -->
-
-<!-- `Comp. Science` -->
-
-<!-- Over 10 years experience with research and applications in Computational Science. -->
+Over 10 years experience with research and applications in Computational Science.
 
 
-<!-- `Research` -->
+`Research`
 
-<!-- Published in high impact journals and experience applying research over different subject areas. -->
+Published in high impact journals and experience applying research over different subject areas.
 
+
+## Skills
+
+`Prgramming`
+ C, C++, Fortran, Python, awk, perl, OpenMP, MPI, numpy, matplotlib
+
+`Applications`
+ MatLab, Maple, Jupyter Notebooks, Rational Test Suites
+
+`OS` 
+Linux, OS X, Windows
+
+`Languages`
+English, ASL
 
 <!-- ## Research interests -->
 
@@ -73,7 +59,7 @@ Using continual evaluations and early alerts to track progress of students.
 ## Education
 
 `2004-2009`
-__PhD__ University of Edinburgh *Mathematics*
+__Phd__ University of Edinburgh *Mathematics*
 
 `1997-2000`
 __M.Sc.__ University of British Columbia *Applied Mathematics*
@@ -112,10 +98,10 @@ I am currently teaching Calculus I and Remedial Methods for Secondary 4.  My res
 __Lecturer of Physics - Rochester Institute of Technology__
 
 Responsible for:
-  * consulting with program and course administrators and other faculty members, advisory committees.
+  * consulting with program and course adminstrators and other faculty members, advisory commitees.
   * defining learning outcomes and evaluating and validating these outcomes
   * specifying and approving learning approaches, necessary resources, etc.
-  * incorporating educational technologies to meet the learning needs of 21st century students.
+  * incorporating educational technologies to meet the learning needs of 21st centry students.
   * Reviewing and revising curriculum and participating in professional development activities.
   
 <!-- As a Lecturer in the Department of Physics I taught the following Courses:  
@@ -143,7 +129,6 @@ __Product Assurance Analyst - IBM Canada__
    * **For IBM Health Collaborative Network**,  I led a testing team which successfully delivered the product on time with minimal defects.
    * **For IBM WebCast Service**, I saved $40 000 in external production fees by implementing a series of performance tests to prove the stability and reliability of the system so that it could be rolled into production.
 
-
 <!-- `1998-2000` -->
 <!-- __Extra Sessional Instructor - University of British Columbia__ -->
 
@@ -162,20 +147,6 @@ __Product Assurance Analyst - IBM Canada__
 
 <!-- over all swell guy -->
 
-
-## Skills
-
-`Programming`
- C, C++, FORTRAN, Python, awk, Perl, Open MP, MPI, numpy, matplotlib
-
-`Applications`
- MatLab, Maple, Jupyter Notebooks, Rational Test Suites
-
-`OS` 
-Linux, OS X, Windows
-
-`Languages`
-English, ASL
 
 
 <!-- ### Footer
