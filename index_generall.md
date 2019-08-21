@@ -19,8 +19,9 @@ Mathematician, Scientist
 
 </div>
 
+## Introduction
 
-## Core Compentencies
+*An accomplished researcher in computational science.  Experience in high performance computing, GPU computing, manipulating and analyzing large data sets.  Research interests in computational science, algorithms, and numerical analysis.*
 
 `HPC`
 Developed parallel codes using MPI and Cuda for computer clusters and GPUs.

@@ -23,6 +23,11 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+@font-face {
+    font-family: "BOXING";
+    src: url("BOXING.otf")format("opentype");
+
+}
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -54,7 +59,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 85%;
+	font-size: 95%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
@@ -69,10 +74,13 @@ p {
 	margin-right: 0;
 	width: 65%;
 }
+.colortext{
+    color: #a00;
+}
 
 code {
 	font: normal bold; /*normal;*/
-	font-size: 75%;
+	font-size: 70%;
 	padding-top: .2em;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
@@ -121,17 +129,22 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	text-align: left;
+        font-family: BOXING;
+        text-align: left;
 	font-size: 3em;
-	line-height: 1em;
+	line-height: 1.4em;
 	position: relative;
 	left: 33%;
+	color: black;
+	/* background-color: #4d88ff;*/
+	background-position: 100% 100% no-repeat;
 }
 
 h1+p {
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+	font-size: 130%;
+	letter-spacing: .05em;
 }
 
 h2 {
@@ -167,9 +180,9 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 33%;
-	color: #aaa;
+	color: #a00;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 85%;
 }
 
 #webaddress a {
@@ -190,6 +203,18 @@ strong {
 }
 
 
+#body colortext {
+    position: relative;
+    left: 33%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;
+    color: #a00;
+}
+
+#colortext strong{
+    font-weight: bold;
+}
 
 /*
 @media only screen and (max-width: 480px) {

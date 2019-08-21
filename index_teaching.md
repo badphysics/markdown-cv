@@ -8,52 +8,64 @@ Mathematician, Scientist
 <div id="webaddress">
 <img src="https://img.freepik.com/free-vector/email-envelope-concept_34259-135.jpg?size=338&ext=jpg" width="15"><a href="david.urminsky@gmail.com">david.urminsky@gmail.com</a><br>
 
-<!-- <img src="https://banner2.kisspng.com/20180713/czs/kisspng-web-development-web-design-logo-web-page-parallel-computing-5b48f9e5df2130.959073491531509221914.jpg" width="15"><a href="http://urminsky.ca"> http://urminsky.ca</a> <br>
--->
+<img src="https://banner2.kisspng.com/20180713/czs/kisspng-web-development-web-design-logo-web-page-parallel-computing-5b48f9e5df2130.959073491531509221914.jpg" width="15"><a href="http://urminsky.ca"> http://urminsky.ca</a> <br>
+
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15"> http://github.com/badphysics<br>
 
 <img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="15"> https://www.linkedin.com/in/david-urminsky <br>
 
- 59 Ch. Banstead Montreal-West H4X 1P1<br>
+ 4895 Av. Patricia Montreal H4V 1Y7<br>
  (514) 229-4248
 
 </div>
 
 ## Introduction
 
-*An accomplished researcher in computational science.  Experience in high performance computing, GPU computing, manipulating and analyzing large data sets.  Research interests in computational science, algorithms, and numerical analysis.*
-<br><br>
+*A seasoned lecturer with a passion for combining technology and online tools to make significant contributions to the educational process.  Recognized for collaborative approach in meeting quality standards and facilitating positive change.*
 
-`HPC`
-Developed parallel codes using MPI and Cuda for computer clusters and GPUs.
-
-`Big Data`
-
-Experience extracting information from large data sets.
-
-`Comp. Sci.`
-
-Over 10 years experience of research and applications in Computational Science.
+## Core Competencies
 
 
-`Research`
+<span class="colortext"> 
+__Improving Reasoning and Communication Skills__
+</span>
 
-Published in high impact journals and experience applying research over different subject areas.
+Developed and implemented a flipped classroom which focused on problem based learning and presentations.
+
+<span class="colortext"> 
+__Technology Integration__
+</span>
+
+Made use of existing technologies (tablets, mobile and online applications) to enhance the learning process for students.
+
+<span class="colortext"> 
+__Communication and Presentation Skills__
+</span>
+
+Effectively makes use of several delivery  methods (video, online, downloadable) for presenting materials for students.
+
+<span class="colortext"> 
+__Creating Learning Environments__
+</span>
+
+Using continual evaluations and early alerts to track progress of students.
+
+<!-- `HPC` -->
+<!-- Developed parallel codes using MPI and Cuda for computer clusters and GPUs. -->
+
+<!-- `Big Data` -->
+
+<!-- Experience extracting information from large data sets. -->
+
+<!-- `Comp. Science` -->
+
+<!-- Over 10 years experience with research and applications in Computational Science. -->
 
 
-## Skills
+<!-- `Research` -->
 
-`Prgramming`
- C, C++, Python, Fortran, awk, perl, OpenMP, MPI, numpy, matplotlib
+<!-- Published in high impact journals and experience applying research over different subject areas. -->
 
-`Applications`
- MatLab, Maple, Jupyter Notebooks, Rational Test Suites
-
-`OS` 
-Linux, OS X, Windows
-
-`Languages`
-English, ASL
 
 <!-- ## Research interests -->
 
@@ -81,31 +93,29 @@ __Honours B.Sc.__ McMaster University *Mathematics and Physics*
 
 ## Publications
 
-David Urminsky, "*Electric Dipole in an Uniform Field*", Published in the PICUP Collection, July 2017<br><br>
+David Urminsky, "*Electric Dipole in an Uniform Field*", Published in the PICUP Collection, July 2017<br>
 
 Urminsky, D.J., "*Shadowing unstable orbits of the sitnikov elliptic 3-body problem*", Monthly Notices of the Royal Astronomical Society, 407, issue 2 804, 2010<br><br>
 
 Urminsky, D.J., Heggie, D.C., "*On the relationship between instability and Lyapunov times for the three-body problem*", Monthly notices of the Royal Astronomical Society, issue 3 392,  1051<br><br>
 
-Urminsky, David, "*On the Calculation of Average Lifetimes for the 3-body Problem*", Dynamical Evolution of Dense Stellar Systems, Proceedings of the International Astronomical Union, IAU Symposium, Volume 246, pg 235-236.<br><br>
+Urminsky, David, "*On the Calculation of Average Lifetimes for the 3-body Problem*", Dynamical Evolution of Dense Stellar Systems, Proceedings of the International Astronomical Union, IAU Symposium, Volume 246, pg 235-236.
 
 ## Experience
 
 `2019-Present`
 __Lecturer of Mathematics - Dawson College__
 
-I am currently teaching Calculus I and Remedial Methods for Secondary 4.  My responsibilities include preparing and delivering lectures, exams and evaluations.
-<br>
-<br>
+I am currently teaching Calculus I and Remedial Methods for Secondary 4.  My responsibilities include preparing and delivering lectures, exams and evaluations.  
 
 `2011-2018`
 __Lecturer of Physics - Rochester Institute of Technology__
 
 Responsible for:
-  * consulting with program and course adminstrators and other faculty members, advisory commitees.
+  * consulting with program and course administrators and other faculty members, advisory committees.
   * defining learning outcomes and evaluating and validating these outcomes
   * specifying and approving learning approaches, necessary resources, etc.
-  * incorporating educational technologies to meet the learning needs of 21st centry students.
+  * incorporating educational technologies to meet the learning needs of 21st century students.
   * Reviewing and revising curriculum and participating in professional development activities.
   
 <!-- As a Lecturer in the Department of Physics I taught the following Courses:  
@@ -133,14 +143,6 @@ __Product Assurance Analyst - IBM Canada__
    * **For IBM Health Collaborative Network**,  I led a testing team which successfully delivered the product on time with minimal defects.
    * **For IBM WebCast Service**, I saved $40 000 in external production fees by implementing a series of performance tests to prove the stability and reliability of the system so that it could be rolled into production.
 
-## Interests
-
-Anything Mathematics<br>
-Astronomy<br>
-Writing<br>
-
-
-
 
 <!-- `1998-2000` -->
 <!-- __Extra Sessional Instructor - University of British Columbia__ -->
@@ -160,6 +162,20 @@ Writing<br>
 
 <!-- over all swell guy -->
 
+
+## Skills
+
+`Programming`
+ C, C++, FORTRAN, Python, awk, Perl, Open MP, MPI, numpy, matplotlib
+
+`Applications`
+ MatLab, Maple, Jupyter Notebooks, Rational Test Suites
+
+`OS` 
+Linux, OS X, Windows
+
+`Languages`
+English, ASL
 
 
 <!-- ### Footer
