@@ -44,7 +44,7 @@ Published in high impact journals and experience applying research over differen
 ## Skills
 
 `Prgramming`
- C, C++, Python, Fortran, awk, perl, OpenMP, MPI, numpy, matplotlib, tensorflow, SQL
+  Python, C, C++, Fortran, awk, perl, OpenMP, MPI, numpy, matplotlib, tensorflow, SQL
 
 `Applications`
  MatLab, Maple, Jupyter Notebooks, Rational Test Suites
@@ -52,8 +52,6 @@ Published in high impact journals and experience applying research over differen
 `OS` 
 Linux, OS X, Windows
 
-`Language`
-English, ASL
 
 <!-- ## Research interests -->
 
