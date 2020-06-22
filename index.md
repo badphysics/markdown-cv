@@ -2,6 +2,7 @@
 layout: cv
 title: DAVID URMINSKY
 ---
+
 # DAVID URMINSKY
 Mathematician, Scientist
 
@@ -61,7 +62,7 @@ English, ASL
 ## Education
 
 `2004-2009`
-__PhD__ University of Edinburgh *Mathematics*
+__PhD__ University of Edinburgh - *Mathematics*
 
 `1997-2000`
 __M.Sc.__ University of British Columbia *Applied Mathematics*
@@ -91,10 +92,15 @@ Urminsky, David, "*On the Calculation of Average Lifetimes for the 3-body Proble
 
 ## Experience
 
-`2019-Present`
+`2019- Present`
+__Machine Learning Specialist - R&D Partners__
+
+Utilized my skills in research and technical writing to facilitate the aquisition of research funding.  I collaborate with  companies who are working on state of the art research in machine learning to analyze their research in order to maximize possible funding resourses.  I create grant proposals and technical reports for submission to funding entities.<br>
+
+`2019 - 09/2019`
 __Lecturer of Mathematics - Dawson College__
 
-I am currently teaching Calculus I and Remedial Methods for Secondary 4.  My responsibilities include preparing and delivering lectures, exams and evaluations.
+Responsibility includes teaching Calculus I and Remedial Methods for Secondary 4.  Additional responsibilities include preparing and delivering lectures, exams and evaluations.
 <br>
 <br>
 

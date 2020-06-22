@@ -25,8 +25,8 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 @font-face {
-    font-family: "BOXING";
-    src: url("Azonix.otf");
+    font-family: "Quantum";
+    src: url("Quantum.otf");
     -fs-pdf-font-embed: embed;
     -fs-pdf-font-encoding: Identity-H;
 }
@@ -160,7 +160,7 @@ h1+p {
 
 h2 {
 	font-size: 1.2em;
-	color: #a00;
+	color: #00a;
 	margin-top: .5em;
 	position: relative;
 	top: 1.em;
@@ -204,7 +204,7 @@ a:hover {
 }
 
 em {
-	font-style: normal;
+	font-style: italic;
 	color: #1c313c
 }
 

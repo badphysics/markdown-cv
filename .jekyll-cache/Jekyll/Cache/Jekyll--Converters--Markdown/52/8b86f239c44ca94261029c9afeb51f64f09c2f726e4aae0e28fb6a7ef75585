@@ -1,0 +1,155 @@
+I"!<h1 id="david-urminsky">DAVID URMINSKY</h1>
+<p>Mathematician, Scientist</p>
+
+<div id="webaddress">
+<img src="https://img.freepik.com/free-vector/email-envelope-concept_34259-135.jpg?size=338&amp;ext=jpg" width="15" /><a href="david.urminsky@gmail.com">david.urminsky@gmail.com</a><br />
+
+<!-- <img src="https://banner2.kisspng.com/20180713/czs/kisspng-web-development-web-design-logo-web-page-parallel-computing-5b48f9e5df2130.959073491531509221914.jpg" width="15"><a href="http://urminsky.ca"> http://urminsky.ca</a> <br>
+-->
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15" /> http://github.com/badphysics<br />
+
+<img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="15" /> https://www.linkedin.com/in/david-urminsky <br />
+
+ 59 Ch. Banstead Montreal-West H4X 1P1<br />
+ (514) 229-4248
+
+</div>
+
+<h2 id="introduction">Introduction</h2>
+
+<p><em>An accomplished researcher in computational science.  Experience in high performance computing, GPU computing, manipulating and analyzing large data sets.  Research interests in computational science, algorithms, and numerical analysis.</em>
+<br /><br /></p>
+
+<p><code class="highlighter-rouge">HPC</code>
+Developed parallel codes using MPI and Cuda for computer clusters and GPUs.</p>
+
+<p><code class="highlighter-rouge">Big Data</code></p>
+
+<p>Experience extracting information from large data sets.</p>
+
+<p><code class="highlighter-rouge">Comp. Sci.</code></p>
+
+<p>Over 10 years experience of research and applications in Computational Science.</p>
+
+<p><code class="highlighter-rouge">Research</code></p>
+
+<p>Published in high impact journals and experience applying research over different subject areas.</p>
+
+<h2 id="skills">Skills</h2>
+
+<p><code class="highlighter-rouge">Prgramming</code>
+  Python, C, C++, Fortran, awk, perl, OpenMP, MPI, numpy, matplotlib, tensorflow, SQL</p>
+
+<p><code class="highlighter-rouge">Applications</code>
+ MatLab, Maple, Jupyter Notebooks, Rational Test Suites</p>
+
+<p><code class="highlighter-rouge">OS</code> 
+Linux, OS X, Windows</p>
+
+<!-- ## Research interests -->
+
+<!-- numerical analysis, chaotic dynamics, stellar dynamics, scientific computation -->
+<h2 id="education">Education</h2>
+
+<p><code class="highlighter-rouge">2004-2009</code>
+<strong>PhD</strong> University of Edinburgh <em>Mathematics</em></p>
+
+<p><code class="highlighter-rouge">1997-2000</code>
+<strong>M.Sc.</strong> University of British Columbia <em>Applied Mathematics</em></p>
+
+<p><code class="highlighter-rouge">1993-1997</code>
+<strong>Honours B.Sc.</strong> McMaster University <em>Mathematics and Physics</em></p>
+
+<!-- ## Awards -->
+
+<!-- `2012` -->
+<!-- President, *Royal Society*, London, UK -->
+
+<!-- Associate, *French Academy of Science*, Paris, France -->
+
+<h2 id="publications">Publications</h2>
+
+<p>David Urminsky, “<em>Electric Dipole in an Uniform Field</em>”, Published in the PICUP Collection, July 2017<br /></p>
+
+<p>Urminsky, D.J., “<em>Shadowing unstable orbits of the sitnikov elliptic 3-body problem</em>”, Monthly Notices of the Royal Astronomical Society, 407, issue 2 804, 2010<br /></p>
+
+<p>Urminsky, D.J., Heggie, D.C., “<em>On the relationship between instability and Lyapunov times for the three-body problem</em>”, Monthly notices of the Royal Astronomical Society, issue 3 392,  1051<br /></p>
+
+<p>Urminsky, David, “<em>On the Calculation of Average Lifetimes for the 3-body Problem</em>”, Dynamical Evolution of Dense Stellar Systems, Proceedings of the International Astronomical Union, IAU Symposium, Volume 246, pg 235-236.<br /><br /><br /></p>
+
+<h2 id="experience">Experience</h2>
+
+<p><code class="highlighter-rouge">2019-Present</code>
+<strong>Lecturer of Mathematics - Dawson College</strong></p>
+
+<p>I am currently teaching Calculus I and Remedial Methods for Secondary 4.  My responsibilities include preparing and delivering lectures, exams and evaluations.
+<br />
+<br /></p>
+
+<p><code class="highlighter-rouge">2011-2018</code>
+<strong>Lecturer of Physics - Rochester Institute of Technology</strong></p>
+
+<p>Responsible for:</p>
+<ul>
+  <li>consulting with program and course adminstrators and other faculty members, advisory commitees.</li>
+  <li>defining learning outcomes and evaluating and validating these outcomes</li>
+  <li>specifying and approving learning approaches, necessary resources, etc.</li>
+  <li>incorporating educational technologies to meet the learning needs of 21st centry students.</li>
+  <li>Reviewing and revising curriculum and participating in professional development activities.</li>
+</ul>
+
+<!-- As a Lecturer in the Department of Physics I taught the following Courses:  
+  * ***College Physics 1***: This course is in an algebra based physics course which covers topics on Newton's laws of motion, energy, momentum, rotational dynamics, waves and harmonic motion. I was responsible for running lectures, writing and grading exams and quizzes as well as working with a group of other lecturers to plan curriculum.  
+  * ***University Physics 1***: This course is a calculus based physics course which covers topics on Newton's Laws of motion, energy, momentum, rotational dynamics, waves.I was responsible for running lectures, writing and grading exams and quizzes as well as working with a group of other lecturers to plan curriculum.  
+  * ***University Physics 2***: This course is a calculus based phyics course with covers topics on electric and magnetic forces and field, electric and magnetic flux, circuts, Maxwell's equations.  
+  * ***Introduction to Computational Physics***: This course introduces methods for using computers to model the behavior of physical systems.  Students will learn how computers represent numbers, limits of computation, how to write computer programs, and to use good programming practices.  Students will also apply numerical methods of differentiation and integration, and numerical solutions to differential equations in physical situations.  Responsibilities include maintaining building and maintaining a JupyterHub to host jupyter notebooks for students.  Creating and grading projects.  Running workshops and lectures.  
+  * ***Classical Mechanics***: This course is a systematic presentation of Newtonian kinematics and dynamics including equations of motion in one- and three-dimensions, conservation laws, non-inertial reference frames, central forces, Lagrangian mechanics, and rigid body motion. This course will use advanced mathematical techniques including differential equations, vector calculus, and matrix and tensor formulations.   
+-->
+
+<p><code class="highlighter-rouge">2009-2011</code>
+<strong>Post doctoral fellow - Rochester Institute of Technology</strong></p>
+<ul>
+  <li>Performed research in scientific computation, dynamical systems and chaos with applications to stellar dynamics.</li>
+  <li>System administrator for the gravitySimulator computer cluster.</li>
+  <li>Discovered regions of instability for the restricted 3-body problem where numerical solutions favour a-typical dynamics.</li>
+  <li>Discovered instabilities in 2-body orbits around Supermassive black holes with spin.</li>
+</ul>
+
+<!-- `2004-2009` -->
+<!-- __Teaching Assistant - University of Edinburgh__ -->
+
+<p><code class="highlighter-rouge">2000-2004</code>
+<strong>Product Assurance Analyst - IBM Canada</strong></p>
+
+<ul>
+  <li><strong>For a major Canadian Airlines</strong>, while collaborating with their development team, we discovered bottlenecks in their production servers which could cause server crashes and a loss of revenue.</li>
+  <li><strong>For IBM Health Collaborative Network</strong>,  I led a testing team which successfully delivered the product on time with minimal defects.</li>
+  <li><strong>For IBM WebCast Service</strong>, I saved $40 000 in external production fees by implementing a series of performance tests to prove the stability and reliability of the system so that it could be rolled into production.</li>
+</ul>
+
+<h2 id="interests">Interests</h2>
+
+<p>Anything Mathematics<br />
+Astronomy<br />
+Writing<br /></p>
+
+<!-- `1998-2000` -->
+<!-- __Extra Sessional Instructor - University of British Columbia__ -->
+
+<!-- ## Occupation -->
+
+<!-- `1600` -->
+<!-- __Royal Mint__, London -->
+
+<!-- - Warden -->
+<!-- - Minted coins -->
+
+<!-- `1600` -->
+<!-- __Lucasian professor of Mathematics__, Cambridge University -->
+
+<!-- over all swell guy -->
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+:ET

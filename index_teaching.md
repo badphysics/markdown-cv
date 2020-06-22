@@ -20,12 +20,9 @@ Mathematician, Scientist
 </div>
 
 ## Introduction
-
 *A seasoned lecturer with a passion for combining technology and online tools to make significant contributions to the educational process.  Recognized for collaborative approach in meeting quality standards and facilitating positive change.*
 
 ## Core Competencies
-
-
 <span class="colortext"> 
 __Improving Reasoning and Communication Skills__
 </span>
@@ -95,18 +92,25 @@ __Honours B.Sc.__ McMaster University *Mathematics and Physics*
 
 David Urminsky, "*Electric Dipole in an Uniform Field*", Published in the PICUP Collection, July 2017<br>
 
-Urminsky, D.J., "*Shadowing unstable orbits of the sitnikov elliptic 3-body problem*", Monthly Notices of the Royal Astronomical Society, 407, issue 2 804, 2010<br><br>
+Urminsky, D.J., "*Shadowing unstable orbits of the sitnikov elliptic 3-body problem*", Monthly Notices of the Royal Astronomical Society, 407, issue 2 804, 2010
 
-Urminsky, D.J., Heggie, D.C., "*On the relationship between instability and Lyapunov times for the three-body problem*", Monthly notices of the Royal Astronomical Society, issue 3 392,  1051<br><br>
+Urminsky, D.J., Heggie, D.C., "*On the relationship between instability and Lyapunov times for the three-body problem*", Monthly notices of the Royal Astronomical Society, issue 3 392,  1051
 
 Urminsky, David, "*On the Calculation of Average Lifetimes for the 3-body Problem*", Dynamical Evolution of Dense Stellar Systems, Proceedings of the International Astronomical Union, IAU Symposium, Volume 246, pg 235-236.
 
 ## Experience
 
-`2019-Present`
+`2019- Present`
+__Machine Learning Specialist - R&D Partners__
+
+Utilized my skills in research and technical writing to facilitate the aquisition of research funding.  I collaborate with  companies who are working on state of the art research in machine learning to analyze their research in order to maximize possible funding resourses.  I create grant proposals and technical reports for submission to funding entities.<br><br>
+
+`2019`
 __Lecturer of Mathematics - Dawson College__
 
-I am currently teaching Calculus I and Remedial Methods for Secondary 4.  My responsibilities include preparing and delivering lectures, exams and evaluations.  
+Responsibility includes teaching Calculus I and Remedial Methods for Secondary 4.  Additional responsibilities include preparing and delivering lectures, exams and evaluations.
+<br>
+<br>
 
 `2011-2018`
 __Lecturer of Physics - Rochester Institute of Technology__
